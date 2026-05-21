@@ -23,13 +23,11 @@ using Python, NumPy, and Pandas.
 
 
 data-preprocessing-assessment/
-│
-├── data/
-│   └── student_scores.csv
-│
-├── src/
-│   └── main.py
-│
-├── requirements.txt
-│
-└── README.md
+
+--data/ student_scores.csv
+
+--src/ main.py
+
+--requirements.txt
+
+--README.md
